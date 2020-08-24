@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\bin\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.exe
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\bin\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.deps.json
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\bin\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.runtimeconfig.json
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\bin\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\bin\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.dll
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\bin\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.pdb
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.dll
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.pdb
+C:\Users\Administrator\source\repos\Kucuk_Buyuk_Bulma\Kucuk_Buyuk_Bulma\obj\Debug\netcoreapp3.1\Kucuk_Buyuk_Bulma.genruntimeconfig.cache
